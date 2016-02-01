@@ -1,18 +1,18 @@
 analytics: {}
 color:
   brandColors:
-    - '#000000'
-    - '#880068'
-    - '#000000'
-    - '#D008A0'
-    - '#D870B8'
+    - '#D0B0C8'
+    - '#900888'
+    - '#986890'
+    - '#E82898'
+    - '#F8B8F0'
   brandStrength: 0.709459
-  lightness: 0.807432
-  rhythmicContrast: 0.504504
-  saturation: 0.71509
+  lightness: 0.496621
+  rhythmicContrast: 0.504503
+  saturation: 0.510135
 cta: {}
-layout_spectrum: 0.814189
+layout_spectrum: 0.022522
 name: Global Diva Style
 opengraph: {}
 purpose: []
-typography_spectrum: 0.412162
+typography_spectrum: 0.05518
