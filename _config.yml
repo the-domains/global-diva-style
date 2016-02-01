@@ -6,10 +6,10 @@ color:
     - '#000000'
     - '#A80898'
     - '#E088D0'
-  brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 0.012387
-  saturation: 0
+  brandStrength: 0.990991
+  lightness: 0.997747
+  rhythmicContrast: 0.978603
+  saturation: 0.988738
 cta: {}
 layout_spectrum: 0.022522
 name: Global Diva Style
